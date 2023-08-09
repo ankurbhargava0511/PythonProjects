@@ -1,0 +1,7 @@
+# documentation
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+
+
+#Selenium Documentation
+https://selenium-python.readthedocs.io/
+
